@@ -10,6 +10,6 @@
 .navbar a{
     margin: 10px;
 }
-.about{
+.about, .section{
     text-align: center;
 }

@@ -35,8 +35,10 @@ const App = () => {
                 sectionData.map((item) => (
                     <Section
                     title={item.title}
-                    content={item.content}                    
-                    />
+                    content={item.content} >
+
+                        <hr />
+                    </Section>
                 ))
             }
         </div>
